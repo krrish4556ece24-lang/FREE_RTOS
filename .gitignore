@@ -1,0 +1,11 @@
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+.settings/
+*.launch
+.DS_Store
+Thumbs.db
